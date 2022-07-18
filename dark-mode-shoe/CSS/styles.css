@@ -143,3 +143,47 @@ main {
 .dark .btn {
     background-color: #67b4f3;
 }
+
+/*Media Query*/
+
+/*Smartphone*/
+
+@media(max-width: 480px) {
+    .card {
+        margin-top: 10px;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .card-image,
+    .card-details {
+        width: 100%;
+        padding: 100px;
+    }
+
+    .card img {
+        width: 60%;
+        right: 7rem;
+        top: 17rem;
+    }
+
+    p.description {
+        text-align: justify;
+    }
+
+    .price-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .price {
+        padding-bottom: 20px;
+    }
+
+    .btn {
+        font-size: 20px;
+        width: 10rem;
+        height: 4rem;
+    }
+    
+}
