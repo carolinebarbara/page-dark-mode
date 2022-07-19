@@ -19,6 +19,20 @@
 
  <h2> 💻 Como funciona </h2>
  
+ Para mudar do Light Mode para o Dark Mode basta clicar no ícone de sol 🔆 no canto superior direito da página, e para fazer o caminho inverso é só clicar no ícone de lua 🌜:
+ 
+ 
+![animacao](https://user-images.githubusercontent.com/106767653/179636965-d3ee41e9-8417-4dde-8546-a36c3a5e0eb0.gif)
+
+<h2> 📱 Responsividade para smartphone </h2>
+
+![animacao-resp](https://user-images.githubusercontent.com/106767653/179637406-5a5ee893-053a-4f4b-ace5-10f8dcbca9f7.gif)
+
+ 
  <h2> 😊 Testar a aplicação </h2>
  
  [Clique aqui!](https://carolinebarbara.github.io/page-dark-mode/dark-mode-shoe/)
+ 
+ ##
+ 
+ <p align="end"> Referência: Canal Hora de Codar </p>
